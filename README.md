@@ -1,5 +1,5 @@
 ## Treehouse
 
-This repo is for al my course file completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com
 
-This is for all of my Treehouse stuff
+Let's put an image here
